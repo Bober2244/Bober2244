@@ -1,6 +1,6 @@
-## Hi there 👋, You're on my page
+## Hi there 👋, You're on my gibthu
 
-I'm a student from Russia
+My name is Sergey and I'm a student from Russia
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bober2244&theme=tokyonight)
 
