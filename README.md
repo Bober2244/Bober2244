@@ -1,4 +1,4 @@
-## Hi there 👋, You're on my gibthub
+## Hi there 👋, You're on my GibtHub
 
 My name is Sergey and I'm a student from Russia
 
